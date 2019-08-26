@@ -1,9 +1,9 @@
 #!/bin/bash
 
-#lwcScript - For use with Live Wellness Center Logging System 
-#This code will be used on a Linux box and read input from an RFID scanner
-#Last Modified: 4/28/2016
-#Copyright: 2016 by Trevor Boardman and Joseph Kadrich
+#lwcScript - For use with LWC Logging System 
+#This code will be used on a Linux box or Raspberry Pi and read input from an RFID scanner
+#Last Modified: 8/26/2019
+#Copyright: 2019 by Trevor Boardman
 
 
 
